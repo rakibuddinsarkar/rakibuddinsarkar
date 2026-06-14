@@ -6,12 +6,12 @@
 </p>
 
 ### 🚀 About Me
-[cite_start]I am a results-driven **Software Quality Assurance (SQA) Engineer** specializing in **Test Automation**, **Manual Testing**, and **API Testing**[cite: 84]. [cite_start]With a strong background in computer science principles and web development, I focus on identifying defects efficiently and ensuring seamless user experiences[cite: 86].
+I am a results-driven **Software Quality Assurance (SQA) Engineer** specializing in **Test Automation**, **Manual Testing**, and **API Testing**. With a strong background in computer science principles and web development, I focus on identifying defects efficiently and ensuring seamless user experiences.
 
-- [cite_start]🔭 I’m currently working as a **QA Automation Engineer** at **Sol IT Solutions Inc**[cite: 95].
-- [cite_start]💻 Passionate about building robust, scalable automation frameworks from scratch[cite: 85].
-- [cite_start]🌱 Continuously learning new automation trends, performance testing, and CI/CD best practices[cite: 87].
-- [cite_start]💬 Ask me about **Selenium**, **Java**, **Postman**, or **Software Testing Methodologies**[cite: 90, 93].
+- 🔭 I’m currently working as a **QA Automation Engineer** at **Sol IT Solutions Inc**.
+- 💻 Passionate about building robust, scalable automation frameworks from scratch.
+- 🌱 Continuously learning new automation trends, performance testing, and CI/CD best practices.
+- 💬 Ask me about **Selenium**, **Java**, **Postman**, or **Software Testing Methodologies**.
 
 ---
 
@@ -64,7 +64,7 @@
   </tr>
 </table>
 
-**Testing Frameworks & Concepts:** TestNG | Cucumber (BDD) | Page Object Model (POM) | JUnit | [cite_start]Bug Tracking (JIRA) [cite: 90, 92]
+**Testing Frameworks & Concepts:** TestNG | Cucumber (BDD) | Page Object Model (POM) | JUnit | Bug Tracking (JIRA)
 
 ---
 
